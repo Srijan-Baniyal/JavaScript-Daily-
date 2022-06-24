@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    justify-items: center;
+}
+h1 {
+    font-style: italic;
+    font-size: 3rem;
+}
+div {
+    background-color: greenyellow;
+    word-spacing: 2rem;
+    font-size: 3rem;
+    text-shadow: 6px 8px 8px black;
+}
