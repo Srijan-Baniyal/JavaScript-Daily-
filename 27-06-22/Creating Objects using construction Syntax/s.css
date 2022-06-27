@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+h1 {
+    color: green;
+}
+h1#hotelName {
+    color: white;
+}
+br {
+    color: white;
+}
+h1#rooms {
+    color: gold;
+}
+aside {
+    color: white;
+    font-size: 2rem;
+    font-style: italic;
+}
