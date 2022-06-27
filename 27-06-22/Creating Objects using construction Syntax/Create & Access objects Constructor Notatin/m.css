@@ -1,0 +1,15 @@
+body {
+    background-color: yellow;
+    text-align: center;
+}
+h1 {
+    color: green;
+}
+h1#hotel1{
+    color: black;
+}
+
+
+#hotel2{
+    color: black;
+}
