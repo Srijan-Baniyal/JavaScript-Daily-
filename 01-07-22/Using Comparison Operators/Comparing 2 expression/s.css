@@ -1,0 +1,14 @@
+body {
+    background-color: darkgoldenrod;
+    text-align: center;
+    justify-content: center;
+}
+p {
+    background-color: blue;
+    height: 4rem;
+    width: 69rem;
+    justify-items: center;
+    margin: 9rem;
+    font-size: 3rem;
+
+}
