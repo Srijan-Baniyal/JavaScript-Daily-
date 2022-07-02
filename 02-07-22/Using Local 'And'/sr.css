@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+    font-size: 2.56rem;
+}
+div {
+    height: 20rem;
+    background-color: aquamarine;
+    width: auto;
+}
